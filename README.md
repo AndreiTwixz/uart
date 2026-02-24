@@ -1,0 +1,1 @@
+This project implements a hardware-based UART (Universal Asynchronous Receiver-Transmitter) transmitter module. It serves as a parallel-to-serial data converter that transmits data according to the standard UART protocol. The circuit takes an 8-bit input and packages it into an 11-bit serial stream for transmission.
